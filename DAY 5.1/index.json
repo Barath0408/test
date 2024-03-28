@@ -1,0 +1,41 @@
+ {
+  "name": "Barath",
+  "contact": {
+    "email": "Barath@example.com",
+    "phone": "+919080170190",
+    "address": "24a.3,iqbal,colony,tvs tollgate, trichy 20"
+  },
+  "summary": "Experienced in Assistant manager in ICICI Bank.ltd",
+  "experience": [
+    {
+      "title": "ASSISTANT MANAGER",
+      "company": "icici bank ltd",
+      "location": "Chennai, Tamil nadu",
+      "dates": "August 2023 - December 2023",
+      "responsibilities": [
+        "Led a team and making a profit in my control branch and achieving targets",
+       
+      ]
+    },
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of commerce",
+      "institution": "Bharathiyar univercity",
+      "location": "Coimbatore, tamil nadu",
+      "dates": "2018 - 2021"
+    }
+    {
+      "degree": "MBA ",
+      "institution": "anna  univercity",
+      "location": "trichy, tamil nadu",
+      "dates": "2021 - 2023"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    
+  ]
+}
